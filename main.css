@@ -1,0 +1,116 @@
+
+
+#calculator {
+  max-width: 400px;
+}
+
+.numBar{
+  background-color: black;
+  max-width: 400px;
+  min-height: 100px;
+  color: white;
+}
+
+.numAlign {
+  max-width: 375px;
+  max-height: 80px; 
+  padding: 20px;
+  font-size: 60px;
+  text-align: right;
+
+}
+
+.numBtn {
+  background-color: #d8d9db;
+  min-width: 100px;
+  min-height: 100px;
+  font-size: 40px;
+}
+
+.numBtn:hover{
+  background-color: #ebebeb;
+}
+
+.numBtn:active {
+  background-color: #bbbcbe;
+} 
+
+.funcBtn {
+  background-color: #df974c;
+  min-height: 100px;
+  min-width: 100px;
+  font-size: 40px;
+}
+
+.funcBtn:hover {
+  background-color: #dfb07e;
+}
+
+.funcBtn:active {
+  background-color: #dd8d37;
+}
+
+.cBtn {
+  background-color: #d8d9db;
+  min-width: 200px;
+  min-height: 100px;
+  font-size: 40px;
+}
+
+.cBtn:hover {
+  background-color: #ebebeb;
+}
+
+.cBtn:active {
+  background-color: #bbbcbe;
+}
+
+.zero {
+  background-color: #d8d9db;
+  min-width: 300px;
+  min-height: 100px;
+  font-size: 40px;
+}
+
+.zero:hover {
+  background-color: #ebebeb;  
+}
+
+.zero:active {
+  background-color: #bbbcbe;
+}
+
+.arrow {
+  background-color: #d8d9db;
+  min-width: 100px;
+  min-height: 10px;
+  font-size: 40px;
+}
+
+.arrow:hover{
+  background-color: #ebebeb;
+}
+
+.arrow:active{
+  background-color: #bbbcbe;
+}
+
+.firstRow {
+  display: flex;
+}
+
+.secondRow {
+  display: flex;
+}
+
+.thirdRow {
+  display: flex;
+}
+
+.fourthRow {
+  display: flex;
+}
+
+.lastRow {
+  display: flex;
+}
